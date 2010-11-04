@@ -1,0 +1,7 @@
+My Vim Configuration for Compiled Versions of Vim
+
+Sometimes, you're working on a completely-locked-down server and you have to 
+build vim from source.  In that case, here are some simple defaults for ruby 
+development.  The stock configuration in compiled versions of vim isn't the 
+most user-friendly, so here's a configuration closer to what modern linux 
+distros use.
